@@ -7,6 +7,9 @@
  * Website: http://themes.3rdwavemedia.com/
 */
 /* ======= Base ======= */
+
+/*Color Codes: Blue #51BFC5   Green:#B3DABD*/
+
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
@@ -54,23 +57,25 @@ a.btn {
 .btn .fa,
 a.btn .fa {
   margin-right: 5px;
+  
 }
+
 .btn:focus,
 a.btn:focus {
   color: #fff;
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #51BFC5;
+  border: 1px solid #B3DABD;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #B3DABD;
+  border: 1px solid #B3DABD;
   color: #fff;
 }
 a.btn-cta-secondary,
@@ -119,7 +124,7 @@ iframe {
 .header {
   padding: 30px 0;
   background: #f5f5f5;
-  border-top: 10px solid #778492;
+  border-top: 10px solid #51BFC5;
 }
 .header .btn {
   margin-top: 60px;
@@ -143,7 +148,7 @@ iframe {
   margin-bottom: 15px;
 }
 .header .profile-content .social a {
-  background: #b0b7bf;
+  background: #51BFC5;
   width: 36px;
   height: 36px;
   display: inline-block;
