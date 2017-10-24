@@ -80,16 +80,16 @@ a.btn-cta-primary:hover,
 }
 a.btn-cta-secondary,
 .btn-cta-secondary {
-  background: #479FC8;
-  border: 1px solid #479FC8;
+  background: #51BFC5;
+  border: 1px solid #B3DABD;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 a.btn-cta-secondary:hover,
 .btn-cta-secondary:hover {
-  background: #3893bd;
-  border: 1px solid #3893bd;
+  background: #B3DABD;
+  border: 1px solid #B3DABD;
   color: #fff;
 }
 .text-highlight {
