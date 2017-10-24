@@ -164,7 +164,7 @@ iframe {
   text-align: center;
 }
 .header .profile-content .social a:hover {
-  background: #778492;
+  background: #B3DABD;
 }
 .header .profile-content .social a .fa {
   font-size: 20px;
@@ -506,7 +506,7 @@ iframe {
 .footer {
   background: #32383e;
   color: #fff;
-  padding: 10px 0;
+  padding: 25px 0;
 }
 .footer .copyright {
   line-height: 1.6;
@@ -517,7 +517,7 @@ iframe {
   color: #fff;
 }
 .footer .fa-heart {
-  color: #fb866a;
+  color: #51BFC5;
 }
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
