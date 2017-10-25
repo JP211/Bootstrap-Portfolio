@@ -518,6 +518,8 @@ iframe {
 }
 .footer .fa-heart {
   color: #51BFC5;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
 }
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
